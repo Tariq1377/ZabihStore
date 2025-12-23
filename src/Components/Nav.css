@@ -1,0 +1,13 @@
+img{
+    width: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.container{
+    gap: 10px;
+}
+span{
+    font-size: larger;
+    font-weight: bold;
+    color: orange;
+}
